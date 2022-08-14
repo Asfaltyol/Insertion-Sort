@@ -1,5 +1,7 @@
 # Insertion-Sort
 
+patika dev linkim: https://app.patika.dev/nasituygun
+
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
 
